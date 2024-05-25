@@ -1,1 +1,1 @@
-### US Accidents Exploratory Data Analysis
+### US Accident Exploratory Data Analysis
